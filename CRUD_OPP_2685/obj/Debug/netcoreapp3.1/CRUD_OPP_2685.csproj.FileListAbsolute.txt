@@ -1,0 +1,13 @@
+D:\CrudC#\CRUD_OPP_2685\bin\Debug\netcoreapp3.1\CRUD_OPP_2685.exe
+D:\CrudC#\CRUD_OPP_2685\bin\Debug\netcoreapp3.1\CRUD_OPP_2685.deps.json
+D:\CrudC#\CRUD_OPP_2685\bin\Debug\netcoreapp3.1\CRUD_OPP_2685.runtimeconfig.json
+D:\CrudC#\CRUD_OPP_2685\bin\Debug\netcoreapp3.1\CRUD_OPP_2685.runtimeconfig.dev.json
+D:\CrudC#\CRUD_OPP_2685\bin\Debug\netcoreapp3.1\CRUD_OPP_2685.dll
+D:\CrudC#\CRUD_OPP_2685\bin\Debug\netcoreapp3.1\CRUD_OPP_2685.pdb
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.csprojAssemblyReference.cache
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.csproj.CoreCompileInputs.cache
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.AssemblyInfoInputs.cache
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.AssemblyInfo.cs
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.dll
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.pdb
+D:\CrudC#\CRUD_OPP_2685\obj\Debug\netcoreapp3.1\CRUD_OPP_2685.genruntimeconfig.cache
